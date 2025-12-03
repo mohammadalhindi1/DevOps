@@ -1,0 +1,3 @@
+fastapi        # Web framework for building APIs
+uvicorn[standard]   # ASGI server used to run FastAPI apps
+pydantic       # Data validation and schema modeling
