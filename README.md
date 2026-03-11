@@ -116,4 +116,10 @@ http://192.168.49.2:30080/health
 
 ---
 
-Mohammad Alhindi – DevOps Engineer
+## 👨‍💻 Author
+
+**Mohammad Alhindi**  
+Cloud Computing | Software Engineer  
+
+- GitHub: https://github.com/mohammadalhindi  
+- LinkedIn: https://www.linkedin.com/in/mohammad-alhendi13
