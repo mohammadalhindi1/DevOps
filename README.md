@@ -1,4 +1,4 @@
-# 🚀 Task Service – FastAPI Microservice (Docker + Kubernetes)
+#  Task Service – FastAPI Microservice (Docker + Kubernetes)
 
 A simple and production-ready **FastAPI microservice** containerized with **Docker** and deployed locally using **Kubernetes (Minikube)**.
 
